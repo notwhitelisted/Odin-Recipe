@@ -1,2 +1,2 @@
 # Odin-Recipe
-These are the reciepes to a few of my favorite dishes!
+These are the recipes to a few of my favorite dishes!
